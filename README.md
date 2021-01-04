@@ -13,8 +13,3 @@ The tutorial [Тетрис демо](https://www.youtube.com/watch?v=gww_4GBZnjc
 - [Jumper](https://vislupus.github.io/p5-games/jumper/index.html)
 - [Warrior](https://vislupus.github.io/p5-games/warrior/index.html)
 - [Tetris](https://vislupus.github.io/p5-games/tetris/index.html)
-
-https://vislupus.github.io/p5-games/tetris/
-https://vislupus.github.io/p5-games/tree/main/tetris/
-https://vislupus.github.io/p5-games/tetris/index.html
-https://vislupus.github.io/p5-games/tree/main/index.html
