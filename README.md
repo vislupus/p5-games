@@ -6,7 +6,7 @@ Inspiration for most of them came from the work of [Daniel Shiffman](http://twit
 
 I used materials from the Udemy's course [How to Program Games: Tile Classics in JS for HTML5 Canvas](https://www.udemy.com/course/how-to-program-games/) teached by [Chris DeLeon](https://hometeamgamedev.com/).
 
-The tutorial [Тетрис демо](https://www.youtube.com/watch?v=gww_4GBZnjc) that I followed for the tetris game.
+The [tutorial](https://www.youtube.com/watch?v=gww_4GBZnjc) that I followed for the tetris game.
 
 - [Breakout](https://vislupus.github.io/p5-games/breakout/index.html)
 - [Snake](https://vislupus.github.io/p5-games/snake/index.html)
