@@ -240,7 +240,6 @@
              addToGroup(b.id);
              show(b);
              check(b);
-
              checkNew();
          }
      }
